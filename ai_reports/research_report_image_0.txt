@@ -1,0 +1,39 @@
+EXPERIMENTAL CHEST X-RAY AI RESEARCH REPORT
+============================================
+
+Generated at: 2026-10-19T14:45:22
+Image index: 0
+Image path: C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Normal\images\Normal-4291.png
+
+MODEL OUTPUT
+------------
+Predicted class: Normal
+
+Class probabilities (softmax outputs):
+- Normal: 0.999979
+- Tuberculosis: 0.000017
+- COVID-19: 0.000005
+
+UNCERTAINTY INDICATORS
+----------------------
+Maximum probability: 0.999979
+Normalized entropy: 0.000240
+Top-two probability margin: 0.999962
+
+EXPLORATORY REVIEW FLAG
+-----------------------
+Review required: False
+Reason: Prediction did not meet the exploratory uncertainty review rule.
+
+EXPLAINABILITY
+--------------
+Grad-CAM available: True
+Grad-CAM can be generated separately for this image. A heatmap does not establish a clinical finding.
+
+LIMITATIONS
+-----------
+- This is an experimental research output, not a medical diagnosis.
+- Softmax probabilities are not validated clinical confidence estimates.
+- The review thresholds have not been clinically validated.
+- A prediction that is not flagged may still be incorrect.
+- Clinical interpretation requires an appropriately qualified clinician.

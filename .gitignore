@@ -1,0 +1,58 @@
+
+# Python environments
+tb_env/
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Dataset files
+Datasets/
+datasets/
+data/
+
+# Model checkpoints (large files)
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.weights.h5
+
+# Local outputs and temporary files
+.streamlit/cache/
+*.log
+.DS_Store
+Thumbs.db
+
+
+# All trained models and temporary weights
+*.keras
+*.h5
+*.hdf5
+*.weights.h5
+*.ckpt
+temp_model_weights.h5
+
+# Model backup folders
+model_backups/
+
+# Dataset folders
+Datasets/
+datasets/
+data/
+
+# Python environments
+tb_env/
+.venv/
+venv/
+env/
