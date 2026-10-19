@@ -1,164 +1,48 @@
-# Hybrid Deep Learning Framework for Pulmonary Tuberculosis Detection from Chest X-ray Images
+# Hybrid CNN-Transformer for Chest X-Ray Classification
 
-An AI-powered deep learning framework for automated Pulmonary Tuberculosis (TB) detection using chest X-ray images. This project combines the feature extraction capability of **MobileNetV2** with the contextual learning ability of a **Transformer Encoder** through feature fusion, enabling accurate and efficient TB diagnosis.
+A research prototype for classifying chest X-ray images into **Normal, Tuberculosis (TB), and COVID-19** categories using a hybrid Convolutional Neural Network (CNN) and Transformer architecture.
 
----
+> **Disclaimer:** This project is intended for research and educational purposes only. It is not a medical device and must not be used to diagnose disease or guide clinical decisions.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Model Architecture](#model-architecture)
+- [Dataset](#dataset)
+- [Performance](#performance)
+- [Explainability and Uncertainty](#explainability-and-uncertainty)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Project Structure](#project-structure)
+- [Limitations](#limitations)
+- [Future Improvements](#future-improvements)
 
 ## Overview
 
-Tuberculosis (TB) remains one of the world's leading infectious diseases, particularly in regions with limited access to expert radiologists. Early detection is essential for timely treatment and reducing disease transmission.
+Chest X-ray classification is a computer vision task in which deep learning models learn visual patterns from medical images. This project explores a hybrid architecture combining CNN-based feature extraction with Transformer-based feature processing.
 
-This project presents a hybrid deep learning framework that combines Convolutional Neural Networks (CNNs) and Transformer-based attention mechanisms to classify chest X-ray images as **Tuberculosis Positive** or **Normal**, assisting healthcare professionals in rapid and reliable diagnosis.
+The prototype includes model evaluation, Grad-CAM visualizations, uncertainty analysis, and a Streamlit interface for research demonstrations.
 
----
+## Key Features
 
-## Features
-
-- Hybrid CNN + Transformer architecture
-- MobileNetV2 for efficient feature extraction
-- Transformer Encoder for global contextual learning
-- Feature Fusion for improved classification
-- Automated Pulmonary TB detection
-- High classification accuracy (96%)
-- Simple web interface using Flask
-- Lightweight model suitable for deployment
-
----
+- Three-class chest X-ray classification.
+- MobileNetV2-based feature extraction.
+- Transformer-based feature processing.
+- Model evaluation using accuracy, precision, recall, F1-score, and a confusion matrix.
+- Grad-CAM visualizations for exploring image regions that influence predictions.
+- Prediction confidence and uncertainty analysis.
+- Experimental patient-history comparison using synthetic records.
+- Streamlit web interface for interactive demonstrations.
 
 ## Model Architecture
 
-```
-Chest X-ray Image
-        │
-        ▼
-Image Preprocessing
-        │
-        ▼
-MobileNetV2
-(Local Feature Extraction)
-        │
-        ▼
-Transformer Encoder
-(Global Context Learning)
-        │
-        ▼
-Feature Fusion
-        │
-        ▼
-Dense Classification Layer
-        │
-        ▼
-TB / Normal Prediction
-```
+The model combines:
 
----
+1. **CNN feature extractor:** A pretrained MobileNetV2 backbone extracts visual features from input images.
+2. **Transformer component:** Transformer-based processing models relationships between extracted features.
+3. **Classification head:** Produces scores for three classes.
 
-## Dataset
+### Input and output
 
-- Chest X-ray Images
-- Total Images: **4,200**
-- Binary Classification:
-  - Tuberculosis
-  - Normal
-
-The dataset was preprocessed using:
-
-- Image resizing
-- Normalization
-- Data augmentation
-
----
-
-## Technologies Used
-
-- Python
-- TensorFlow / Keras
-- MobileNetV2
-- Transformer Encoder
-- Flask
-- NumPy
-- Pandas
-- OpenCV
-- Matplotlib
-- Scikit-learn
-
----
-
-## Repository Structure
-
-```
-Pulmonary-TB-Detection/
-│
-├── .gitignore                 # Git ignored files
-├── README.md                  # Project documentation
-├── app.py                     # Flask web application
-├── requirements.txt           # Project dependencies
-├── tb_detection_model.h5      # Trained hybrid deep learning model
-└── train_model.ipynb          # Model training notebook
-```
-
----
-
-## Workflow
-
-1. Load Chest X-ray dataset
-2. Preprocess and augment images
-3. Train the hybrid MobileNetV2 + Transformer model
-4. Save the trained model (.h5)
-5. Launch the Flask application
-6. Upload a Chest X-ray image
-7. Predict whether the patient is **TB Positive** or **Normal**
-
----
-
-## Performance
-
-| Metric | Value |
-|---------|--------|
-| Model | Hybrid MobileNetV2 + Transformer |
-| Accuracy | **96%** |
-| Dataset | 4,200 Chest X-ray Images |
-| Classification | Binary |
-
----
-
-## Results
-
-The hybrid architecture effectively combines the strengths of CNNs and Transformers, resulting in:
-
-- 96% Classification Accuracy
-- Improved contextual feature learning
-- Efficient feature extraction
-- Better generalization through feature fusion
-
----
-
-## Future Enhancements
-- Explainable AI using Grad-CAM
-- Multi-class lung disease classification
-- Clinical report generation
-- Cloud deployment
-- Mobile application integration
-
----
-
-## Applications
-
-- AI-assisted Tuberculosis screening
-- Clinical decision support
-- Rural healthcare diagnostics
-- Automated chest X-ray analysis
-- Public health screening programs
-
----
-
-## Authors
-**Kanakadandi Vidya Sai Prasanna**, 
-**Kadiri Lalasa**, 
-**Jahnavi Gummadi**.
-Bachelor of Engineering (Computer Science and Engineering)
-
----
-
-## License
-This project is intended for academic and research purposes.
+- Input image size
