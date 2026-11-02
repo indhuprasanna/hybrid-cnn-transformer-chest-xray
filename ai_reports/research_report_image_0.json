@@ -1,0 +1,33 @@
+{
+  "report_type": "Experimental AI Research Report",
+  "generated_at": "2026-10-19T14:45:22",
+  "image_index": 0,
+  "image_path": "C:\\mini project\\TB-Detection-Hybrid-CNN-Transformers-main\\Datasets\\COVID-19_Radiography_Dataset\\Normal\\images\\Normal-4291.png",
+  "dataset_label_for_evaluation": "Normal",
+  "model_prediction": "Normal",
+  "class_probabilities": {
+    "Normal": 0.9999785423278809,
+    "Tuberculosis": 1.6738351405365393e-05,
+    "COVID-19": 4.757549959322205e-06
+  },
+  "uncertainty": {
+    "normalized_entropy": 0.00024016670025704993,
+    "top_two_margin": 0.999961793422699,
+    "maximum_probability": 0.9999785423278809
+  },
+  "review_flag": {
+    "review_required": false,
+    "reason": "Prediction did not meet the exploratory uncertainty review rule."
+  },
+  "explainability": {
+    "gradcam_available": true,
+    "note": "Grad-CAM can be generated separately for this image. A heatmap does not establish a clinical finding."
+  },
+  "limitations": [
+    "Experimental research output; not a medical diagnosis.",
+    "Softmax probabilities are not validated clinical confidence estimates.",
+    "The exploratory review thresholds are not clinically validated.",
+    "A prediction that is not flagged may still be incorrect.",
+    "Clinical interpretation requires an appropriately qualified clinician."
+  ]
+}

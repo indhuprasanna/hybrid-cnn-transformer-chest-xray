@@ -1,0 +1,392 @@
+image_path,class_name,label,patient_id,true_label,predicted_label,true_class,predicted_class,confidence,correct
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-5579.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7863032817840576,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2477.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6758105754852295,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4685.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7456222772598267,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-332.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6784452795982361,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-326.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8016582727432251,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3078.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5357376933097839,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-183.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5214141011238098,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-6000.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6377899050712585,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1754.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9838420152664185,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-476.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7547956109046936,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2889.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5476332902908325,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4802.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.538749635219574,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1528.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.703923225402832,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2146.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5371423959732056,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2781.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8029540777206421,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1645.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7592914700508118,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1967.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.558676540851593,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-190.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6081246137619019,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1556.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8114256858825684,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1627.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8018852472305298,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4009.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7884239554405212,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2770.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7917323708534241,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2646.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8062493801116943,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2789.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8243340849876404,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-3042.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9975379705429077,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3234.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6853335499763489,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1853.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5872419476509094,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1712.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.814484715461731,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-597.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9633030891418457,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2043.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9854574799537659,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4833.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5145885944366455,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1290.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5459246039390564,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-2796.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9394803643226624,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2467.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5498533844947815,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-273.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7631204128265381,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4292.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5574961304664612,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-3518.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9984437823295593,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-847.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5455822348594666,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2702.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5616334080696106,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-479.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6436377167701721,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1054.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5491716265678406,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-4880.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8595225811004639,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2451.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5851542949676514,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-79.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6045660376548767,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1611.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6663253307342529,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1163.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6056861281394958,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3291.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6342291831970215,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5644.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5775056481361389,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-523.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6111642718315125,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-281.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5310482382774353,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4271.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8915592432022095,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2050.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8100572824478149,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1492.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5757774710655212,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3236.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9501807689666748,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2784.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9313636422157288,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3580.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5310960412025452,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-4227.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9087541699409485,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4081.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5523743033409119,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2698.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5508592128753662,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5506.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6335758566856384,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-3960.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9421809315681458,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1580.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5195203423500061,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2492.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7671665549278259,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5956.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8516430854797363,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3454.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5030175447463989,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-204.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9318916201591492,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3111.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5920683741569519,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-642.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5705901980400085,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-925.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7649784088134766,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-968.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5823915004730225,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-3160.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8460856080055237,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1939.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5002649426460266,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2457.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8817257285118103,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-448.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.584004282951355,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-373.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6265446543693542,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3617.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.721318781375885,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-3976.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6069557070732117,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-878.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8062711358070374,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3318.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5633474588394165,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2167.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5175825357437134,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2726.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6720638871192932,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2700.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7828763723373413,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3291.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5883005261421204,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4326.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6985278725624084,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3065.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9114971160888672,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1172.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.52818363904953,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1738.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5795871615409851,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3533.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8437232375144958,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2844.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.919486939907074,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3900.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8437739014625549,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1231.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8219032883644104,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5241.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7216681838035583,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-110.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5358412861824036,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2172.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5303447246551514,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4475.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7639356255531311,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4075.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6803104281425476,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-523.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9177752733230591,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-635.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.562798261642456,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-903.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5210851430892944,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2641.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5077729821205139,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-162.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5065409541130066,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-9.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9989929795265198,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-472.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7804566621780396,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3598.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5783523917198181,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2513.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8370453119277954,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3073.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8422162532806396,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4299.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9650980234146118,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5402.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5250193476676941,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2304.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.529930830001831,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-599.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5011522173881531,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-386.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6687037348747253,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-983.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.599754810333252,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-180.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8157288432121277,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-194.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7543294429779053,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5944.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5572705864906311,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3283.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6644520163536072,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2755.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6101096272468567,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4535.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.544894814491272,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4102.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7279196381568909,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2372.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6884925365447998,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-991.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6176589131355286,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5187.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7368711233139038,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5524.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5523669719696045,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2661.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7308382391929626,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-4719.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9960471987724304,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2453.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6678178310394287,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4179.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9551432728767395,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-278.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5506656765937805,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2031.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6093245148658752,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-1614.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6526675224304199,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-902.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7834793925285339,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1058.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5088443756103516,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3310.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5363101959228516,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-2759.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5129626393318176,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-248.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5142903327941895,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1646.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5180531144142151,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2800.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7019031047821045,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-496.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8587181568145752,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2272.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9527145624160767,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-1842.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.659793496131897,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3852.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5015844702720642,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3147.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7989521622657776,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2232.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5429267287254333,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2254.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5654404163360596,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3163.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6456444263458252,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2530.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7624039649963379,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1735.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.536227822303772,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3824.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8936850428581238,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-953.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5874950289726257,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-601.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6144158244132996,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-266.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.737208366394043,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2815.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8260498642921448,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2799.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7121064066886902,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-569.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5146331191062927,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2220.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5194588899612427,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2510.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5193517804145813,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-713.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.509844183921814,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-3030.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9448490738868713,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-268.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8238980174064636,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-765.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6094846725463867,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-2659.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9309247136116028,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3971.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6480292677879333,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2148.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8967238664627075,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1642.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5091816186904907,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2079.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9751680493354797,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5145.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8722357749938965,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2114.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5048539042472839,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2698.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6555895209312439,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2014.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.76116943359375,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-2459.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6261355876922607,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-904.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5754879117012024,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-490.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5348473191261292,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-217.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5107793211936951,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-738.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.752126157283783,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1104.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5538557767868042,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-899.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8566539287567139,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-332.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6755428314208984,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4057.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5645722150802612,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-360.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7715311050415039,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1592.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5407334566116333,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3064.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6073552966117859,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1624.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6844451427459717,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1818.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6412777304649353,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1863.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7596917748451233,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2018.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.786450207233429,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-788.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5730723738670349,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2445.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7440401911735535,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-1821.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8542180061340332,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3425.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8713204264640808,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-945.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7648897171020508,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5605.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5752547383308411,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2132.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9911810159683228,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5061.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7793323397636414,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3187.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7240549325942993,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-782.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6978462338447571,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1014.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.639280378818512,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1540.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7004151344299316,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-730.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6623380184173584,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2711.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7799412608146667,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3410.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7273149490356445,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2429.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5959340333938599,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-587.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5746201872825623,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2970.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.654058039188385,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4584.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5252640843391418,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-3125.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9499250650405884,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-631.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8520379066467285,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1738.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5147069096565247,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-327.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6351659893989563,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3042.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9448389410972595,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1512.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7081521153450012,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2918.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5061140060424805,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3296.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.933223307132721,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1052.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9765461087226868,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2230.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6599348187446594,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1408.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9216736555099487,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1993.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8120812177658081,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2324.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8959745168685913,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-267.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5098165273666382,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-3014.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7483233213424683,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5368.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8746331334114075,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-63.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5447708964347839,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-183.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5430200099945068,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2750.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7543067932128906,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2900.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8043432235717773,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1905.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8852651715278625,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1801.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.750654935836792,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4076.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5171164870262146,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-409.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.700372576713562,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2036.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6946828365325928,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3443.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6246592402458191,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3050.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5346666574478149,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2539.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6961792707443237,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-85.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7400201559066772,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-4051.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8522439002990723,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1695.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5943211913108826,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3067.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7189854979515076,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1004.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8725578784942627,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3564.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5335164070129395,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-681.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5841476321220398,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-100.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6459836959838867,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-2784.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.4436511695384979,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1806.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9471133947372437,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3009.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8237751722335815,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2996.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7878944277763367,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5462.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6438732743263245,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2694.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6488419771194458,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-200.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8076941967010498,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-857.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5759766697883606,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3132.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5058546662330627,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2799.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5331825613975525,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1360.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8891839981079102,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-393.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6084094047546387,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2285.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5960680246353149,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2631.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5104252099990845,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-15.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5676867365837097,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3201.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9227532744407654,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2287.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.526400089263916,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1763.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5280672907829285,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-417.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5045799016952515,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5264.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5811024904251099,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-4618.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8827193975448608,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2660.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6006738543510437,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1187.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6715610027313232,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2618.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9094908833503723,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2077.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5005956888198853,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2362.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5286744832992554,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-297.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5467137098312378,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-11.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7698642611503601,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2672.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8407641053199768,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3101.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5783266425132751,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1044.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5446877479553223,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-449.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6285141706466675,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-430.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7622994780540466,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4094.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8236954212188721,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-674.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.590398907661438,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1854.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5609779357910156,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1831.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9226620197296143,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5667.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.745549738407135,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1906.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6002204418182373,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2514.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8059880137443542,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1024.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6357057690620422,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2439.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5356476306915283,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1192.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5437172055244446,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2773.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6007111072540283,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1776.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.980044424533844,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1212.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8634912967681885,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-841.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8410079479217529,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2916.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7601608037948608,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-281.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5184892416000366,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-629.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5924633741378784,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1621.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8735114336013794,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1968.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7611315846443176,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2567.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9972822666168213,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3514.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.54242342710495,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3136.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5481594800949097,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2657.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6673227548599243,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-202.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5187228918075562,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1258.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5309812426567078,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1245.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5368618965148926,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3992.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6928509473800659,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-655.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9092862010002136,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3629.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.793286919593811,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-820.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5215199589729309,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2214.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5924944281578064,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-1395.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.9885455965995789,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-467.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5256546139717102,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4890.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5800682902336121,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-431.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5068574547767639,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-698.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8536694645881653,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-930.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7446762919425964,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-41.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6155456900596619,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3296.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6865981817245483,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1876.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9981410503387451,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-138.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9869035482406616,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1733.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9821606874465942,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2753.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5768265128135681,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3765.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.712609589099884,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-839.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8534762263298035,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4828.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5368250608444214,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1268.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.691180408000946,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5352.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8146297931671143,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2392.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.540960967540741,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1187.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7482520937919617,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4692.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6093857288360596,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2622.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5676620602607727,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5856.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5658133029937744,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-340.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9874387383460999,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5555.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7988916635513306,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2468.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8451331853866577,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5242.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5746458172798157,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1390.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5776041746139526,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2486.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8682758212089539,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1414.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9946634769439697,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3433.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7056429386138916,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1746.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.533911943435669,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4796.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5922969579696655,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2236.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5845690965652466,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3549.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9579299688339233,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-965.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8585096597671509,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2780.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5362025499343872,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3479.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5618093609809875,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-3296.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9395534992218018,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-66.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6260182857513428,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-694.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6402943134307861,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2088.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5121079683303833,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-394.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6515733003616333,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3319.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6891931891441345,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1950.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7421330213546753,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4698.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7250688076019287,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-3564.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.766051173210144,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4283.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.604272723197937,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1941.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7061604857444763,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3256.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5833137631416321,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3366.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5654626488685608,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4926.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6855117082595825,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1238.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6293442249298096,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2846.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7241231203079224,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1471.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.516792893409729,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-2788.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9476584196090698,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2728.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5486642122268677,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-426.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6473662257194519,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2318.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6001441478729248,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3786.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6977140307426453,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3719.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5962256193161011,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4575.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6773181557655334,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3528.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5973610281944275,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\images\COVID-1172.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5375048518180847,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3174.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8973451852798462,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-429.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5906655788421631,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3058.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5438315868377686,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-2293.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6692463755607605,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-366.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5883244872093201,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3026.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.9314501881599426,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3493.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5856958031654358,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-5506.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8955287933349609,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-563.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5831959843635559,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-1064.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5390026569366455,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-760.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7040358781814575,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3447.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.7640007734298706,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3197.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6804884672164917,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-1896.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6370318531990051,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-836.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.729466438293457,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-2440.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.7836281061172485,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-5980.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.8334210515022278,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-3512.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.6842637062072754,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1116.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8378726840019226,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-4534.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5049318671226501,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1504.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.5619115233421326,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\COVID\masks\COVID-1206.png,COVID-19,2,,2,4,COVID-19,Lung Opacity,0.8367536664009094,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\images\Lung_Opacity-2967.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.6485007405281067,False
+C:\mini project\TB-Detection-Hybrid-CNN-Transformers-main\Datasets\COVID-19_Radiography_Dataset\Lung_Opacity\masks\Lung_Opacity-3023.png,Lung Opacity,4,,4,2,Lung Opacity,COVID-19,0.5355430841445923,False

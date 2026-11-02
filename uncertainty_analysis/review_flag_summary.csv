@@ -1,0 +1,2 @@
+test_samples,model_errors,flagged_images,review_flag_rate,error_recall,flag_precision,errors_among_flagged,probability_threshold,entropy_threshold
+2702,94,240,0.08882309400444116,0.723404255319149,0.2833333333333333,0.2833333333333333,0.8,0.4
