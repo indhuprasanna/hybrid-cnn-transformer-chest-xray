@@ -58,3 +58,11 @@ Evaluated on a strictly balanced cohort of **2,100 frontal chest radiographs** (
         │
         ▼
 [Clinical Interpretability]    ──► Grad-CAM Heatmap Localization & Longitudinal Trajectory Tracking
+
+---
+
+## Project Contributors
+
+- **Indhu Prasanna** - [@indhuprasanna](https://github.com/indhuprasanna)
+- **Jahnavi Gummadi**
+- **Kadiri Lalasa**
