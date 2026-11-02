@@ -1,0 +1,16 @@
+COVID-19_Radiography_Dataset/
+COVID-19_Radiography_Dataset/*
+TB_Chest_Radiography_Database/
+TB_Chest_Radiography_Database/*
+dataset/
+dataset/*
+venv/
+venv/*
+env/
+env/*
+temp_orig.png
+temp_overlay.png
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
